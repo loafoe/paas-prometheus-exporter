@@ -6,8 +6,6 @@ require (
 	code.cloudfoundry.org/go-loggregator v7.4.0+incompatible
 	code.cloudfoundry.org/log-cache v2.3.1+incompatible
 	code.cloudfoundry.org/rfc5424 v0.0.0-20180905210152-236a6d29298a // indirect
-	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
-	github.com/alecthomas/units v0.0.0-20190910110746-680d30ca3117 // indirect
 	github.com/apoydence/eachers v0.0.0-20181020210610-23942921fe77 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/cloudfoundry-community/go-cfclient v0.0.0-20190808214049-35bcce23fc5f
@@ -25,11 +23,9 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.10.1
 	github.com/poy/eachers v0.0.0-20181020210610-23942921fe77 // indirect
-	github.com/prometheus/client_golang v1.1.0
-	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
-	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
+	github.com/prometheus/client_golang v1.12.2
+	github.com/prometheus/client_model v0.2.0
+	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/sys v0.0.0-20220325203850-36772127a21f // indirect
-	google.golang.org/genproto v0.0.0-20190916214212-f660b8655731 // indirect
-	google.golang.org/grpc v1.23.1 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
